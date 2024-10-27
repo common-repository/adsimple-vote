@@ -1,0 +1,10 @@
+/**
+ * AdSimple-Vote — Let the users to vote with just one simple click. Create a question and get deep insights in the process. Listen your audience.
+ * @encoding     UTF-8
+ * @version      1.0.0
+ * @copyright    Copyright (C) 2018 AdSimple (https://www.adsimple.at). All rights reserved.
+ * @license      GPLv2 or later; See http://www.gnu.org/licenses/gpl-2.0.html
+ * @author       Alexander Khmelnitskiy (hi@alexander.khmelnitskiy.ua)
+ * @support      support@adsimple.at
+ */
+.asv-left-right-box{display:inline-block;width:100%}.asv-left-right-box .asv-left-value-fld,.asv-left-right-box .asv-right-value-fld{display:block;margin:0;width:50%;float:left;box-sizing:border-box}.asv-left-right-box .asv-left-value-fld{padding-right:5px}.asv-left-right-box .asv-right-value-fld{padding-left:5px}.asv-chart-box-values{display:inline-block;width:100%;box-sizing:border-box;padding-left:60px}.asv-chart-box-values .asv-left-value-fld,.asv-chart-box-values .asv-right-value-fld{display:block;margin:0;width:50%;float:left;box-sizing:border-box}.asv-chart-box-values .asv-left-value-fld{text-align:left}.asv-chart-box-values .asv-right-value-fld{text-align:right}#author{border-top-style:solid;border-top-width:1px;border-top-color:#EEE;border-bottom-width:0}

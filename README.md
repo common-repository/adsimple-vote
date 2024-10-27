@@ -1,0 +1,2 @@
+# AdSimple Vote Plugin
+
